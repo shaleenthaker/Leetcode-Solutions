@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A collection of LeetCode problem solutions written in Python.
+LeetCode Grind 75 problem solutions written in Python.
 
 ## Structure
 
@@ -11,6 +11,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | # | Problem | Difficulty | File |
 |---|---------|------------|------|
 | 1 | Two Sum | Easy | [twosum.py](twosum.py) |
+| 2 | Valid Parentheses | Easy | [validparentheses.py](validparentheses.py) |
 
 ## Approach
 
