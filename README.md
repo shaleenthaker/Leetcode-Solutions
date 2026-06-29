@@ -13,6 +13,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 1 | Two Sum | Easy | [twosum.py](twosum.py) |
 | 2 | Valid Parentheses | Easy | [validparentheses.py](validparentheses.py) |
 | 3 | Merge Two Sorted Lists | Easy | [mergetwosortedlists.py](mergetwosortedlists.py) |
+| 4 | Best Time to Buy and Sell Stock | Easy | [besttimetobuyandsellstock.py](besttimetobuyandsellstock.py) |
 
 ## Approach
 
