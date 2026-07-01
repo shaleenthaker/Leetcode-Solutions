@@ -16,12 +16,14 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 4 | Best Time to Buy and Sell Stock | Easy | [besttimetobuyandsellstock.py](besttimetobuyandsellstock.py) | *Arrays and Hashing* |
 | 5 | Valid Palindrome | Easy | [validpalindrome.py](validpalindrome.py) | *Two Pointers* |
 | 6 | Invert Binary Tree | Easy | [invertbinarytree.py](invertbinarytree.py) | *Trees* |
+| 7 | Valid Anagram | Easy | [validanagram.py](validanagram.py) | *Arrays and Hashing* |
 
 ## Sections
 
 ### Arrays and Hashing
 - [Two Sum](twosum.py)
 - [Best Time to Buy and Sell Stock](besttimetobuyandsellstock.py)
+- [Valid Anagram](validanagram.py)
 
 ### Two Pointers
 - [Valid Palindrome](validpalindrome.py)
