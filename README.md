@@ -18,6 +18,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 6 | Invert Binary Tree | Easy | [invertbinarytree.py](invertbinarytree.py) | *Trees* |
 | 7 | Valid Anagram | Easy | [validanagram.py](validanagram.py) | *Arrays and Hashing* |
 | 8 | Binary Search | Easy | [binarysearch.py](binarysearch.py) | *Binary Search* |
+| 9 | Flood Fill | Easy | [floodfill.py](floodfill.py) | ** |
 
 ## Sections
 
@@ -50,6 +51,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Backtracking
 
 ### Graphs
+- [Flood Fill](floodfill.py)
 
 ### Dynamic Programming
 
