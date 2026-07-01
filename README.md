@@ -11,16 +11,17 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | # | Problem | Difficulty | File | Pattern |
 |---|---------|------------|------|---------|
 | 1 | Two Sum | Easy | [twosum.py](twosum.py) | *Arrays and Hashing* |
-| 2 | Valid Parentheses | Easy | [validparentheses.py](validparentheses.py) | *Stack* |
+| 2 | Valid Parentheses | Easy | [validparentheses.py](validparentheses.py) | *Stacks* |
 | 3 | Merge Two Sorted Lists | Easy | [mergetwosortedlists.py](mergetwosortedlists.py) | *Linked List* |
 | 4 | Best Time to Buy and Sell Stock | Easy | [besttimetobuyandsellstock.py](besttimetobuyandsellstock.py) | *Arrays and Hashing* |
 | 5 | Valid Palindrome | Easy | [validpalindrome.py](validpalindrome.py) | *Two Pointers* |
 | 6 | Invert Binary Tree | Easy | [invertbinarytree.py](invertbinarytree.py) | *Trees* |
 | 7 | Valid Anagram | Easy | [validanagram.py](validanagram.py) | *Arrays and Hashing* |
 | 8 | Binary Search | Easy | [binarysearch.py](binarysearch.py) | *Binary Search* |
-| 9 | Flood Fill | Easy | [floodfill.py](floodfill.py) | ** |
+| 9 | Flood Fill | Easy | [floodfill.py](floodfill.py) | *Graphs* |
+| 10 | Lowst Common Ancestor of a Binary Search Tree | Easy | [lowestcommonancestorofabinarysearchtree.py](lowestcommonancestorofabinarysearchtree.py) | *Trees* |
 
-## Sections
+## Categories
 
 ### Arrays and Hashing
 - [Two Sum](twosum.py)
@@ -32,21 +33,22 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Sliding Window
 
-### Stack
+### Stacks
 - [Valid Parentheses](validparentheses.py)
 
 ### Binary Search
 - [Binary Search](binarysearch.py)
 
-### Linked List
+### Linked Lists
 - [Merge Two Sorted Lists](mergetwosortedlists.py)
 
 ### Trees
 - [Invert Binary Tree](invertbinarytree.py)
+- [Lowest Common Ancestor of a Binary Search Tree](lowestcommonancestorofabinarysearchtree.py)
 
 ### Tries
 
-### Heap/Priority Queue
+### Heaps/Priority Queues
 
 ### Backtracking
 
