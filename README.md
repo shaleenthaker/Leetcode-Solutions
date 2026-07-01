@@ -17,6 +17,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 5 | Valid Palindrome | Easy | [validpalindrome.py](validpalindrome.py) | *Two Pointers* |
 | 6 | Invert Binary Tree | Easy | [invertbinarytree.py](invertbinarytree.py) | *Trees* |
 | 7 | Valid Anagram | Easy | [validanagram.py](validanagram.py) | *Arrays and Hashing* |
+| 8 | Binary Search | Easy | [binarysearch.py](binarysearch.py) | *Binary Search* |
 
 ## Sections
 
@@ -34,6 +35,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Valid Parentheses](validparentheses.py)
 
 ### Binary Search
+- [Binary Search](binarysearch.py)
 
 ### Linked List
 - [Merge Two Sorted Lists](mergetwosortedlists.py)
