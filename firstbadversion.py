@@ -16,9 +16,9 @@ class Solution:
         right = n
         left = 1
         while left < right:
-            middle = left + (right - left) // 2
+            middle = left + (right - left) // 2 # Modified middle calculation since indexing starts at 1
             if isBadVersion(middle):
-                right = middle
+                right = middle # Differs from binary search since we are looking for the first bad value, unlike binary search where we are just searching for the target
             else:
-                left = middle + 1
+                left = middle + 1 
         return left
