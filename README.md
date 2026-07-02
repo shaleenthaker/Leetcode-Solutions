@@ -23,6 +23,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 11 | Balanced Binary Tree | Easy | [balancedbinarytree.py](balancedbinarytree.py) | *Trees* |
 | 12 | Linked List Cycle | Easy | [linkedlistcycle.py](linkedlistcycle.py) | *Linked Lists* |
 | 13 | Implement Queue Using Stacks | Easy | [implementqueueusingstacks.py](implementqueueusingstacks.py) | *Design* |
+| 14 | First Bad Version | Easy | [firstbadversion.py](firstbadversion.py) | *Binary Search* |
 
 ## Categories
 
@@ -41,6 +42,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Binary Search
 - [Binary Search](binarysearch.py)
+- [First Bad Version](firstbadversion.py)
 
 ### Linked Lists
 - [Merge Two Sorted Lists](mergetwosortedlists.py)
