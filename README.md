@@ -22,6 +22,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 10 | Lowst Common Ancestor of a Binary Search Tree | Easy | [lowestcommonancestorofabinarysearchtree.py](lowestcommonancestorofabinarysearchtree.py) | *Trees* |
 | 11 | Balanced Binary Tree | Easy | [balancedbinarytree.py](balancedbinarytree.py) | *Trees* |
 | 12 | Linked List Cycle | Easy | [linkedlistcycle.py](linkedlistcycle.py) | *Linked Lists* |
+| 13 | Implement Queue Using Stacks | Easy | [implementqueueusingstacks.py](implementqueueusingstacks.py) | *Design* |
 
 ## Categories
 
@@ -68,6 +69,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Math and Bit Multiplication
 
 ### Design
+- [Implement Queue Using Stacks](implementqueueusingstacks.py)
 
 ## Approach
 
