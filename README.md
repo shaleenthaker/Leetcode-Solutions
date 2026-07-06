@@ -8,7 +8,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ## Solutions
 
-| # | Problem | Difficulty | File | Pattern |
+| # | Problem | Difficulty | File | Category |
 |---|---------|------------|------|---------|
 | 1 | Two Sum | Easy | [twosum.py](twosum.py) | *Arrays and Hashing* |
 | 2 | Valid Parentheses | Easy | [validparentheses.py](validparentheses.py) | *Stacks* |
@@ -25,6 +25,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 13 | Implement Queue Using Stacks | Easy | [implementqueueusingstacks.py](implementqueueusingstacks.py) | *Design* |
 | 14 | First Bad Version | Easy | [firstbadversion.py](firstbadversion.py) | *Binary Search* |
 | 15 | Ransom Note | Easy | [ransomnote.py](ransomnote.py) | *Arrays and Hashing* |
+| 16 | Climbing Stairs | Easy | [climbingstairs.py](climbingstairs.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -65,6 +66,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Flood Fill](floodfill.py)
 
 ### Dynamic Programming
+- [Climbing Stairs](climbingstairs.py)
 
 ### Intervals
 
