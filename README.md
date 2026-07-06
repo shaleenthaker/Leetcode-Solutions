@@ -26,6 +26,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 14 | First Bad Version | Easy | [firstbadversion.py](firstbadversion.py) | *Binary Search* |
 | 15 | Ransom Note | Easy | [ransomnote.py](ransomnote.py) | *Arrays and Hashing* |
 | 16 | Climbing Stairs | Easy | [climbingstairs.py](climbingstairs.py) | *Dynamic Programming* |
+| 17 | Longest Palindrome | Easy | [longestpalindrome.py](longestpalindrome.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -34,6 +35,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Best Time to Buy and Sell Stock](besttimetobuyandsellstock.py)
 - [Valid Anagram](validanagram.py)
 - [Ransom Note](ransomnote.py)
+- [Longest Palindrome](longestpalindrome.py)
 
 ### Two Pointers
 - [Valid Palindrome](validpalindrome.py)
