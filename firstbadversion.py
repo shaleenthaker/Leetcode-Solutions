@@ -9,7 +9,7 @@ You should minimize the number of calls to the API."""
 
 # The isBadVersion API is already defined for you.
 def isBadVersion(version: int) -> bool:
-    pass
+    return True
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:

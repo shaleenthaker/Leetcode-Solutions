@@ -24,6 +24,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 12 | Linked List Cycle | Easy | [linkedlistcycle.py](linkedlistcycle.py) | *Linked Lists* |
 | 13 | Implement Queue Using Stacks | Easy | [implementqueueusingstacks.py](implementqueueusingstacks.py) | *Design* |
 | 14 | First Bad Version | Easy | [firstbadversion.py](firstbadversion.py) | *Binary Search* |
+| 15 | Ransom Note | Easy | [ransomnote.py](ransomnote.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -31,6 +32,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Two Sum](twosum.py)
 - [Best Time to Buy and Sell Stock](besttimetobuyandsellstock.py)
 - [Valid Anagram](validanagram.py)
+- [Ransom Note](ransomnote.py)
 
 ### Two Pointers
 - [Valid Palindrome](validpalindrome.py)
