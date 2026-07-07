@@ -31,6 +31,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 19 | Majority Element | Easy | [majorityelement.py](Arrays%20and%20Hashing/majorityelement.py) | *Arrays and Hashing* |
 | 20 | Add Binary | Easy | [addbinary.py](Math%20and%20Bit%20Manipulation/addbinary.py) | *Math and Bit Manipulation* |
 | 21 | Diameter of a Binary Tree | Easy | [diameterofabinarytree.py](Trees/diameterofabinarytree.py) | *Trees* |
+| 22 | Middle of a Linked List | Easy | [middleofalinkedlist.py](Linked%20Lists/middleofalinkedlist.py) | *Linked Lists* |
 
 ## Categories
 
@@ -58,6 +59,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Merge Two Sorted Lists](Linked%20Lists/mergetwosortedlists.py)
 - [Linked List Cycle](Linked%20Lists/linkedlistcycle.py)
 - [Reverse Linked List](Linked%20Lists/reverselinkedlist.py)
+- [Middle of a Linked List](Linked%20Lists/middleofalinkedlist.py)
 
 ### Trees
 - [Invert Binary Tree](Trees/invertbinarytree.py)
