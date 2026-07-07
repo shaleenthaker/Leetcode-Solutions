@@ -29,6 +29,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 17 | Longest Palindrome | Easy | [longestpalindrome.py](Arrays%20and%20Hashing/longestpalindrome.py) | *Arrays and Hashing* |
 | 18 | Reverse Linked List | Easy | [reverselinkedlist.py](Linked%20Lists/reverselinkedlist.py) | *Linked Lists* |
 | 19 | Majority Element | Easy | [majorityelement.py](Arrays%20and%20Hashing/majorityelement.py) | *Arrays and Hashing* |
+| 20 | Add Binary | Easy | [addbinary.py](Math%20and%20Bit%20Manipulation/addbinary.py) | *Math and Bit Manipulation* |
 
 ## Categories
 
@@ -78,7 +79,8 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Greedy
 
-### Math and Bit Multiplication
+### Math and Bit Manipulation
+- [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
 
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
