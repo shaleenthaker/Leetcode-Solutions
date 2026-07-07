@@ -28,6 +28,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 16 | Climbing Stairs | Easy | [climbingstairs.py](Dynamic%20Programming/climbingstairs.py) | *Dynamic Programming* |
 | 17 | Longest Palindrome | Easy | [longestpalindrome.py](Arrays%20and%20Hashing/longestpalindrome.py) | *Arrays and Hashing* |
 | 18 | Reverse Linked List | Easy | [reverselinkedlist.py](Linked%20Lists/reverselinkedlist.py) | *Linked Lists* |
+| 19 | Majority Element | Easy | [majorityelement.py](Arrays%20and%20Hashing/majorityelement.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -37,6 +38,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Valid Anagram](Arrays%20and%20Hashing/validanagram.py)
 - [Ransom Note](Arrays%20and%20Hashing/ransomnote.py)
 - [Longest Palindrome](Arrays%20and%20Hashing/longestpalindrome.py)
+- [Majority Element](Arrays%20and%20Hashing/majorityelement.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
