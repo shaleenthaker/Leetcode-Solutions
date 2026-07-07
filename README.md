@@ -33,6 +33,8 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 21 | Diameter of a Binary Tree | Easy | [diameterofabinarytree.py](Trees/diameterofabinarytree.py) | *Trees* |
 | 22 | Middle of a Linked List | Easy | [middleofalinkedlist.py](Linked%20Lists/middleofalinkedlist.py) | *Linked Lists* |
 | 23 | Maximum Depth of a Binary Tree | Easy | [maximumdepthofabinarytree.py](Trees/maximumdepthofabinarytree.py) | *Trees* |
+| 24 | Contains Duplicate | Easy | [containsduplicate.py](Arrays%20and%20Hashing/containsduplicate.py) | *Arrays and Hashing* |
+| 25 | Maximum Subarray | Medium | [maximumsubarray.py](Dynamic%20Programming/maximumsubarray.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -43,6 +45,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Ransom Note](Arrays%20and%20Hashing/ransomnote.py)
 - [Longest Palindrome](Arrays%20and%20Hashing/longestpalindrome.py)
 - [Majority Element](Arrays%20and%20Hashing/majorityelement.py)
+- [Contains Duplicate](Arrays%20and%20Hashing/containsduplicate.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
@@ -80,10 +83,9 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
+- [Maximum Subarray](Dynamic%20Programming/maximumsubarray.py)
 
 ### Intervals
-
-### Greedy
 
 ### Math and Bit Manipulation
 - [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
