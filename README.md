@@ -30,6 +30,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 18 | Reverse Linked List | Easy | [reverselinkedlist.py](Linked%20Lists/reverselinkedlist.py) | *Linked Lists* |
 | 19 | Majority Element | Easy | [majorityelement.py](Arrays%20and%20Hashing/majorityelement.py) | *Arrays and Hashing* |
 | 20 | Add Binary | Easy | [addbinary.py](Math%20and%20Bit%20Manipulation/addbinary.py) | *Math and Bit Manipulation* |
+| 21 | Diameter of a Binary Tree | Easy | [diameterofabinarytree.py](Trees/diameterofabinarytree.py) | *Trees* |
 
 ## Categories
 
@@ -62,6 +63,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Invert Binary Tree](Trees/invertbinarytree.py)
 - [Lowest Common Ancestor of a Binary Search Tree](Trees/lowestcommonancestorofabinarysearchtree.py)
 - [Balanced Binary Tree](Trees/balancedbinarytree.py)
+- [Diameter of a Binary Tree](Trees/diameterofabinarytree.py)
 
 ### Tries
 
