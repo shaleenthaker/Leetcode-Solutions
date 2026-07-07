@@ -32,6 +32,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 20 | Add Binary | Easy | [addbinary.py](Math%20and%20Bit%20Manipulation/addbinary.py) | *Math and Bit Manipulation* |
 | 21 | Diameter of a Binary Tree | Easy | [diameterofabinarytree.py](Trees/diameterofabinarytree.py) | *Trees* |
 | 22 | Middle of a Linked List | Easy | [middleofalinkedlist.py](Linked%20Lists/middleofalinkedlist.py) | *Linked Lists* |
+| 23 | Maximum Depth of a Binary Tree | Easy | [maximumdepthofabinarytree.py](Trees/maximumdepthofabinarytree.py) | *Trees* |
 
 ## Categories
 
@@ -66,6 +67,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Lowest Common Ancestor of a Binary Search Tree](Trees/lowestcommonancestorofabinarysearchtree.py)
 - [Balanced Binary Tree](Trees/balancedbinarytree.py)
 - [Diameter of a Binary Tree](Trees/diameterofabinarytree.py)
+- [Maximum Depth of a Binary Tree](Trees/maximumdepthofabinarytree.py)
 
 ### Tries
 
