@@ -36,6 +36,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 24 | Contains Duplicate | Easy | [containsduplicate.py](Arrays%20and%20Hashing/containsduplicate.py) | *Arrays and Hashing* |
 | 25 | Maximum Subarray | Medium | [maximumsubarray.py](Dynamic%20Programming/maximumsubarray.py) | *Dynamic Programming* |
 | 26 | Insert Interval | Medium | [insertinterval.py](Intervals/insertinterval.py) | *Intervals* |
+| 27 | 01 Matrix | Medium | [01matrix.py](Graphs/01matrix.py) | *Graphs* |
 
 ## Categories
 
@@ -81,6 +82,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
+- [01 Matrix](Graphs/01matrix.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
