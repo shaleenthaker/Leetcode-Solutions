@@ -37,6 +37,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 25 | Maximum Subarray | Medium | [maximumsubarray.py](Dynamic%20Programming/maximumsubarray.py) | *Dynamic Programming* |
 | 26 | Insert Interval | Medium | [insertinterval.py](Intervals/insertinterval.py) | *Intervals* |
 | 27 | 01 Matrix | Medium | [01matrix.py](Graphs/01matrix.py) | *Graphs* |
+| 28 | K Closest Points to Origin | Medium | [kclosestpointstoorigin.py](Heaps/Priority%20Queues/kclosestpointstoorigin.py) | *Heaps/Priority Queues* |
 
 ## Categories
 
@@ -77,6 +78,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Tries
 
 ### Heaps/Priority Queues
+- [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
 
 ### Backtracking
 
