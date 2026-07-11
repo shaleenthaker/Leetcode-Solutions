@@ -35,6 +35,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 23 | Maximum Depth of a Binary Tree | Easy | [maximumdepthofabinarytree.py](Trees/maximumdepthofabinarytree.py) | *Trees* |
 | 24 | Contains Duplicate | Easy | [containsduplicate.py](Arrays%20and%20Hashing/containsduplicate.py) | *Arrays and Hashing* |
 | 25 | Maximum Subarray | Medium | [maximumsubarray.py](Dynamic%20Programming/maximumsubarray.py) | *Dynamic Programming* |
+| 26 | Insert Interval | Medium | [insertinterval.py](Intervals/insertinterval.py) | *Intervals* |
 
 ## Categories
 
@@ -86,6 +87,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Maximum Subarray](Dynamic%20Programming/maximumsubarray.py)
 
 ### Intervals
+- [Insert Interval](Intervals/insertinterval.py)
 
 ### Math and Bit Manipulation
 - [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
