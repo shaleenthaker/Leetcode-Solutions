@@ -39,6 +39,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 27 | 01 Matrix | Medium | [01matrix.py](Graphs/01matrix.py) | *Graphs* |
 | 28 | K Closest Points to Origin | Medium | [kclosestpointstoorigin.py](Heaps/Priority%20Queues/kclosestpointstoorigin.py) | *Heaps/Priority Queues* |
 | 29 | Longest Substring Without Repeating Characters | Medium | [longestsubstringwithoutrepeatingcharacters.py](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py) | *Sliding Window* |
+| 30 | 3Sum | Medium | [3sum.py](Two%20Pointers/3sum.py) | *Two Pointers* |
 
 ## Categories
 
@@ -53,6 +54,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
+- [3Sum](Two%20Pointers/3sum.py)
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
