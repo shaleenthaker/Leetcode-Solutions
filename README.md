@@ -41,6 +41,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 29 | Longest Substring Without Repeating Characters | Medium | [longestsubstringwithoutrepeatingcharacters.py](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py) | *Sliding Window* |
 | 30 | 3Sum | Medium | [3sum.py](Two%20Pointers/3sum.py) | *Two Pointers* |
 | 31 | Binary Tree Level Order Traversal | Medium | [binarytreelevelordertraversal.py](Trees/binarytreelevelordertraversal.py) | *Trees* |
+| 32 | Clone Graph | Medium | [clonegraph.py](Graphs/clonegraph.py) | *Graphs* |
 
 ## Categories
 
@@ -91,6 +92,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
 - [01 Matrix](Graphs/01matrix.py)
+- [Clone Graph](Graphs/clonegraph.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
