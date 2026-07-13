@@ -42,6 +42,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 30 | 3Sum | Medium | [3sum.py](Two%20Pointers/3sum.py) | *Two Pointers* |
 | 31 | Binary Tree Level Order Traversal | Medium | [binarytreelevelordertraversal.py](Trees/binarytreelevelordertraversal.py) | *Trees* |
 | 32 | Clone Graph | Medium | [clonegraph.py](Graphs/clonegraph.py) | *Graphs* |
+| 33 | Evaluate Reverse Polish Notation | Medium | [evaluatereversepolishnotation.py](Stacks/evaluatereversepolishnotation.py) | *Stacks* |
 
 ## Categories
 
@@ -63,6 +64,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Stacks
 - [Valid Parentheses](Stacks/validparentheses.py)
+- [Evaluate Reverse Polish Notation](Stacks/evaluatereversepolishnotation.py)
 
 ### Binary Search
 - [Binary Search](Binary%20Search/binarysearch.py)
