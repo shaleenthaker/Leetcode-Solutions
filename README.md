@@ -38,6 +38,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 26 | Insert Interval | Medium | [insertinterval.py](Intervals/insertinterval.py) | *Intervals* |
 | 27 | 01 Matrix | Medium | [01matrix.py](Graphs/01matrix.py) | *Graphs* |
 | 28 | K Closest Points to Origin | Medium | [kclosestpointstoorigin.py](Heaps/Priority%20Queues/kclosestpointstoorigin.py) | *Heaps/Priority Queues* |
+| 29 | Longest Substring Without Repeating Characters | Medium | [longestsubstringwithoutrepeatingcharacters.py](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py) | *Sliding Window* |
 
 ## Categories
 
@@ -54,6 +55,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
 
 ### Sliding Window
+- [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
 
 ### Stacks
 - [Valid Parentheses](Stacks/validparentheses.py)
