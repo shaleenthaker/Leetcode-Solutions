@@ -44,6 +44,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 32 | Clone Graph | Medium | [clonegraph.py](Graphs/clonegraph.py) | *Graphs* |
 | 33 | Evaluate Reverse Polish Notation | Medium | [evaluatereversepolishnotation.py](Stacks/evaluatereversepolishnotation.py) | *Stacks* |
 | 34 | Course Schedule | Medium | [courseschedule.py](Graphs/courseschedule.py) | *Graphs* |
+| 35 | Implement Trie (Prefix Tree) | Medium | [implementtrie.py](Design/implementtrie.py) | *Design* |
 
 ## Categories
 
@@ -85,8 +86,6 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Maximum Depth of a Binary Tree](Trees/maximumdepthofabinarytree.py)
 - [Binary Tree Level Order Traversal](Trees/binarytreelevelordertraversal.py)
 
-### Tries
-
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
 
@@ -110,6 +109,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
+- [Implement Trie (Prefix Tree)](Design/implementtrie.py)
 
 ## Approach
 
