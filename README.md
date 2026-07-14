@@ -43,6 +43,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 31 | Binary Tree Level Order Traversal | Medium | [binarytreelevelordertraversal.py](Trees/binarytreelevelordertraversal.py) | *Trees* |
 | 32 | Clone Graph | Medium | [clonegraph.py](Graphs/clonegraph.py) | *Graphs* |
 | 33 | Evaluate Reverse Polish Notation | Medium | [evaluatereversepolishnotation.py](Stacks/evaluatereversepolishnotation.py) | *Stacks* |
+| 34 | Course Schedule | Medium | [courseschedule.py](Graphs/courseschedule.py) | *Graphs* |
 
 ## Categories
 
@@ -95,6 +96,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Flood Fill](Graphs/floodfill.py)
 - [01 Matrix](Graphs/01matrix.py)
 - [Clone Graph](Graphs/clonegraph.py)
+- [Course Schedule](Graphs/courseschedule.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
