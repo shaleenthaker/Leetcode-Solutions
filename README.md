@@ -47,6 +47,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 35 | Implement Trie (Prefix Tree) | Medium | [implementtrie.py](Design/implementtrie.py) | *Design* |
 | 36 | Coin Change | Medium | [coinchange.py](Dynamic%20Programming/coinchange.py) | *Dynamic Programming* |
 | 37 | Product of Array Except Self | Medium | [productofarrayexceptself.py](Arrays%20and%20Hashing/productofarrayexceptself.py) | *Arrays and Hashing* |
+| 38 | Min Stack | Medium | [minstack.py](Design/minstack.py) | *Design* |
 
 ## Categories
 
@@ -114,6 +115,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
 - [Implement Trie (Prefix Tree)](Design/implementtrie.py)
+- [Min Stack](Design/minstack.py)
 
 ## Approach
 
