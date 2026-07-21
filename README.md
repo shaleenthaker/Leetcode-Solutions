@@ -45,6 +45,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 33 | Evaluate Reverse Polish Notation | Medium | [evaluatereversepolishnotation.py](Stacks/evaluatereversepolishnotation.py) | *Stacks* |
 | 34 | Course Schedule | Medium | [courseschedule.py](Graphs/courseschedule.py) | *Graphs* |
 | 35 | Implement Trie (Prefix Tree) | Medium | [implementtrie.py](Design/implementtrie.py) | *Design* |
+| 36 | Coin Change | Medium | [coinchange.py](Dynamic%20Programming/coinchange.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -100,6 +101,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
 - [Maximum Subarray](Dynamic%20Programming/maximumsubarray.py)
+- [Coin Change](Dynamic%20Programming/coinchange.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
