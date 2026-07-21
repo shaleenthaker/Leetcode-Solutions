@@ -46,6 +46,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 34 | Course Schedule | Medium | [courseschedule.py](Graphs/courseschedule.py) | *Graphs* |
 | 35 | Implement Trie (Prefix Tree) | Medium | [implementtrie.py](Design/implementtrie.py) | *Design* |
 | 36 | Coin Change | Medium | [coinchange.py](Dynamic%20Programming/coinchange.py) | *Dynamic Programming* |
+| 37 | Product of Array Except Self | Medium | [productofarrayexceptself.py](Arrays%20and%20Hashing/productofarrayexceptself.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -57,6 +58,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Longest Palindrome](Arrays%20and%20Hashing/longestpalindrome.py)
 - [Majority Element](Arrays%20and%20Hashing/majorityelement.py)
 - [Contains Duplicate](Arrays%20and%20Hashing/containsduplicate.py)
+- [Product of Array Except Self](Arrays%20and%20Hashing/productofarrayexceptself.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
