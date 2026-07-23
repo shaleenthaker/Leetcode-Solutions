@@ -48,6 +48,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 36 | Coin Change | Medium | [coinchange.py](Dynamic%20Programming/coinchange.py) | *Dynamic Programming* |
 | 37 | Product of Array Except Self | Medium | [productofarrayexceptself.py](Arrays%20and%20Hashing/productofarrayexceptself.py) | *Arrays and Hashing* |
 | 38 | Min Stack | Medium | [minstack.py](Design/minstack.py) | *Design* |
+| 39 | Validate Binary Search Tree | Medium | [validatebinarysearchtree.py](Trees/validatebinarysearchtree.py) | *Trees* |
 
 ## Categories
 
@@ -89,6 +90,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Diameter of a Binary Tree](Trees/diameterofabinarytree.py)
 - [Maximum Depth of a Binary Tree](Trees/maximumdepthofabinarytree.py)
 - [Binary Tree Level Order Traversal](Trees/binarytreelevelordertraversal.py)
+- [Validate Binary Search Tree](Trees/validatebinarysearchtree.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
