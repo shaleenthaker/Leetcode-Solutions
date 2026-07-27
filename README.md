@@ -49,6 +49,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 37 | Product of Array Except Self | Medium | [productofarrayexceptself.py](Arrays%20and%20Hashing/productofarrayexceptself.py) | *Arrays and Hashing* |
 | 38 | Min Stack | Medium | [minstack.py](Design/minstack.py) | *Design* |
 | 39 | Validate Binary Search Tree | Medium | [validatebinarysearchtree.py](Trees/validatebinarysearchtree.py) | *Trees* |
+| 40 | Number of Islands | Medium | [numberofislands.py](Graphs/numberofislands.py) | *Graphs* |
 
 ## Categories
 
@@ -102,6 +103,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [01 Matrix](Graphs/01matrix.py)
 - [Clone Graph](Graphs/clonegraph.py)
 - [Course Schedule](Graphs/courseschedule.py)
+- [Number of Islands](Graphs/numberofislands.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
