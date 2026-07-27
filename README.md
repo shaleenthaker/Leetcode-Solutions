@@ -51,6 +51,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 39 | Validate Binary Search Tree | Medium | [validatebinarysearchtree.py](Trees/validatebinarysearchtree.py) | *Trees* |
 | 40 | Number of Islands | Medium | [numberofislands.py](Graphs/numberofislands.py) | *Graphs* |
 | 41 | Rotting Oranges | Medium | [rottingoranges.py](Graphs/rottingoranges.py) | *Graphs* |
+| 42 | Search in Rotated Sorted Array | Medium | [searchinarotatedsortedarray.py](Binary%20Search/searchinarotatedsortedarray.py) | *Binary Search* |
 
 ## Categories
 
@@ -78,6 +79,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Binary Search
 - [Binary Search](Binary%20Search/binarysearch.py)
 - [First Bad Version](Binary%20Search/firstbadversion.py)
+- [Search in Rotated Sorted Array](Binary%20Search/searchinarotatedsortedarray.py)
 
 ### Linked Lists
 - [Merge Two Sorted Lists](Linked%20Lists/mergetwosortedlists.py)
