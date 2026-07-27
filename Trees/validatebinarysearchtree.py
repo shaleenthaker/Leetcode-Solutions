@@ -5,17 +5,15 @@ A valid BST is defined as follows:
 - The right subtree of a node contains only nodes with keys strictly greater than the node's key.
 - Both the left and right subtrees must also be binary search trees."""
 
-from typing import Optional
-
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
-        
+
 class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+    def isValidBST(self, root: TreeNode | None) -> bool:
         def testValidBST(root, low, high):
             if not root:
                 return True

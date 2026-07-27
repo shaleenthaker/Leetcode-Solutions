@@ -2,8 +2,6 @@
 Return a deep copy (clone) of the graph.
 Each node in the graph contains a value (int) and a list (List[Node]) of its neighbors."""
 
-from typing import Optional
-
 # Definition for a Node.
 class Node:
     def __init__(self, val = 0, neighbors = None):
@@ -11,11 +9,11 @@ class Node:
         self.neighbors = neighbors if neighbors is not None else []
 
 class Solution:
-    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+    def cloneGraph(self, node: Node | None) -> Node | None:
         if node is None:
             return None
         visited = {}
-        def copy(node: Optional['Node']):
+        def copy(node: Node | None):
             if node in visited:
                 return visited[node]
             val = node.val

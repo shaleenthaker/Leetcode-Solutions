@@ -2,8 +2,6 @@
 
 If there are two middle nodes, return the second middle node."""
 
-from typing import Optional
-
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -11,7 +9,7 @@ class ListNode:
         self.next = next
 
 class Solution:
-    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def middleNode(self, head: ListNode | None) -> ListNode | None:
         slow = head
         while head is not None:
             head = head.next

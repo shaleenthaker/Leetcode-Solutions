@@ -50,6 +50,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 38 | Min Stack | Medium | [minstack.py](Design/minstack.py) | *Design* |
 | 39 | Validate Binary Search Tree | Medium | [validatebinarysearchtree.py](Trees/validatebinarysearchtree.py) | *Trees* |
 | 40 | Number of Islands | Medium | [numberofislands.py](Graphs/numberofislands.py) | *Graphs* |
+| 41 | Rotting Oranges | Medium | [rottingoranges.py](Graphs/rottingoranges.py) | *Graphs* |
 
 ## Categories
 
@@ -104,6 +105,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Clone Graph](Graphs/clonegraph.py)
 - [Course Schedule](Graphs/courseschedule.py)
 - [Number of Islands](Graphs/numberofislands.py)
+- [Rotting Oranges](Graphs/rottingoranges.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
