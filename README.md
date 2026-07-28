@@ -52,6 +52,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 40 | Number of Islands | Medium | [numberofislands.py](Graphs/numberofislands.py) | *Graphs* |
 | 41 | Rotting Oranges | Medium | [rottingoranges.py](Graphs/rottingoranges.py) | *Graphs* |
 | 42 | Search in Rotated Sorted Array | Medium | [searchinarotatedsortedarray.py](Binary%20Search/searchinarotatedsortedarray.py) | *Binary Search* |
+| 43 | Combination Sum | Medium | [combinationsum.py](Backtracking/combinationsum.py) | *Backtracking* |
 
 ## Categories
 
@@ -100,6 +101,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
 
 ### Backtracking
+- [Combination Sum](Backtracking/combinationsum.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
