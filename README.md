@@ -53,6 +53,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 41 | Rotting Oranges | Medium | [rottingoranges.py](Graphs/rottingoranges.py) | *Graphs* |
 | 42 | Search in Rotated Sorted Array | Medium | [searchinarotatedsortedarray.py](Binary%20Search/searchinarotatedsortedarray.py) | *Binary Search* |
 | 43 | Combination Sum | Medium | [combinationsum.py](Backtracking/combinationsum.py) | *Backtracking* |
+| 44 | Permutations | Medium | [permutations.py](Backtracking/permutations.py) | *Backtracking* |
 
 ## Categories
 
@@ -102,6 +103,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Backtracking
 - [Combination Sum](Backtracking/combinationsum.py)
+- [Permutations](Backtracking/permutations.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
