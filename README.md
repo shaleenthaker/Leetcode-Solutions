@@ -54,6 +54,8 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 42 | Search in Rotated Sorted Array | Medium | [searchinarotatedsortedarray.py](Binary%20Search/searchinarotatedsortedarray.py) | *Binary Search* |
 | 43 | Combination Sum | Medium | [combinationsum.py](Backtracking/combinationsum.py) | *Backtracking* |
 | 44 | Permutations | Medium | [permutations.py](Backtracking/permutations.py) | *Backtracking* |
+| 45 | Merge Intervals | Medium | [mergeintervals.py](Intervals/mergeintervals.py) | *Intervals* |
+| 46 | Lowest Common Ancestor of a Binary Tree | Medium | [lowestcommonancestorofabinarytree.py](Trees/lowestcommonancestorofabinarytree.py) | *Trees* |
 
 ## Categories
 
@@ -97,6 +99,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Maximum Depth of a Binary Tree](Trees/maximumdepthofabinarytree.py)
 - [Binary Tree Level Order Traversal](Trees/binarytreelevelordertraversal.py)
 - [Validate Binary Search Tree](Trees/validatebinarysearchtree.py)
+- [Lowest Common Ancestor of a Binary Tree](Trees/lowestcommonancestorofabinarytree.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
@@ -120,6 +123,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
+- [Merge Intervals](Intervals/mergeintervals.py)
 
 ### Math and Bit Manipulation
 - [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
