@@ -56,6 +56,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 44 | Permutations | Medium | [permutations.py](Backtracking/permutations.py) | *Backtracking* |
 | 45 | Merge Intervals | Medium | [mergeintervals.py](Intervals/mergeintervals.py) | *Intervals* |
 | 46 | Lowest Common Ancestor of a Binary Tree | Medium | [lowestcommonancestorofabinarytree.py](Trees/lowestcommonancestorofabinarytree.py) | *Trees* |
+| 47 | Time Based Key-Value Store | Medium | [timebasedkey-valuestore.py](Design/timebasedkey-valuestore.py) | *Design* |
 
 ## Categories
 
@@ -132,6 +133,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
 - [Implement Trie (Prefix Tree)](Design/implementtrie.py)
 - [Min Stack](Design/minstack.py)
+- [Time Based Key-Value Store](Design/timebasedkey-valuestore.py)
 
 ## Approach
 
