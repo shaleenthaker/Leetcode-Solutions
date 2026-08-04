@@ -58,6 +58,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 46 | Lowest Common Ancestor of a Binary Tree | Medium | [lowestcommonancestorofabinarytree.py](Trees/lowestcommonancestorofabinarytree.py) | *Trees* |
 | 47 | Time Based Key-Value Store | Medium | [timebasedkey-valuestore.py](Design/timebasedkey-valuestore.py) | *Design* |
 | 48 | Accounts Merge | Medium | [accountsmerge.py](Graphs/accountsmerge.py) | *Graphs* |
+| 49 | Sort Colors | Medium | [sortcolors.py](Two%20Pointers/sortcolors.py) | *Two Pointers* |
 
 ## Categories
 
@@ -74,6 +75,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
 - [3Sum](Two%20Pointers/3sum.py)
+- [Sort Colors](Two%20Pointers/sortcolors.py)
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
