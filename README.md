@@ -57,6 +57,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 45 | Merge Intervals | Medium | [mergeintervals.py](Intervals/mergeintervals.py) | *Intervals* |
 | 46 | Lowest Common Ancestor of a Binary Tree | Medium | [lowestcommonancestorofabinarytree.py](Trees/lowestcommonancestorofabinarytree.py) | *Trees* |
 | 47 | Time Based Key-Value Store | Medium | [timebasedkey-valuestore.py](Design/timebasedkey-valuestore.py) | *Design* |
+| 48 | Accounts Merge | Medium | [accountsmerge.py](Graphs/accountsmerge.py) | *Graphs* |
 
 ## Categories
 
@@ -116,6 +117,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Course Schedule](Graphs/courseschedule.py)
 - [Number of Islands](Graphs/numberofislands.py)
 - [Rotting Oranges](Graphs/rottingoranges.py)
+- [Accounts Merge](Graphs/accountsmerge.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
