@@ -60,6 +60,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 48 | Accounts Merge | Medium | [accountsmerge.py](Graphs/accountsmerge.py) | *Graphs* |
 | 49 | Sort Colors | Medium | [sortcolors.py](Two%20Pointers/sortcolors.py) | *Two Pointers* |
 | 50 | Word Break | Medium | [wordbreak.py](Dynamic%20Programming/wordbreak.py) | *Dynamic Programming* |
+| 51 | Partition Equal Subset Sum | Medium | [partitionequalsubsetsum.py](Dynamic%20Programming/partitionequalsubsetsum.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -127,6 +128,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Maximum Subarray](Dynamic%20Programming/maximumsubarray.py)
 - [Coin Change](Dynamic%20Programming/coinchange.py)
 - [Word Break](Dynamic%20Programming/wordbreak.py)
+- [Partition Equal Subset Sum](Dynamic%20Programming/partitionequalsubsetsum.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
