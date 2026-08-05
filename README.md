@@ -59,6 +59,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 47 | Time Based Key-Value Store | Medium | [timebasedkey-valuestore.py](Design/timebasedkey-valuestore.py) | *Design* |
 | 48 | Accounts Merge | Medium | [accountsmerge.py](Graphs/accountsmerge.py) | *Graphs* |
 | 49 | Sort Colors | Medium | [sortcolors.py](Two%20Pointers/sortcolors.py) | *Two Pointers* |
+| 50 | Word Break | Medium | [wordbreak.py](Dynamic%20Programming/wordbreak.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -125,6 +126,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
 - [Maximum Subarray](Dynamic%20Programming/maximumsubarray.py)
 - [Coin Change](Dynamic%20Programming/coinchange.py)
+- [Word Break](Dynamic%20Programming/wordbreak.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
