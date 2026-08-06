@@ -66,6 +66,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 54 | Subsets | Medium | [subsets.py](Backtracking/subsets.py) | *Backtracking* |
 | 55 | Binary Tree Right Side View | Medium | [binarytreerightsideview.py](Trees/binarytreerightsideview.py) | *Trees* |
 | 56 | Longest Palindromic Substring | Medium | [longestpalindromicsubstring.py](Dynamic%20Programming/longestpalindromicsubstring.py) | *Dynamic Programming* |
+| 57 | Unique Paths | Medium | [uniquepaths.py](Dynamic%20Programming/uniquepaths.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -137,6 +138,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Word Break](Dynamic%20Programming/wordbreak.py)
 - [Partition Equal Subset Sum](Dynamic%20Programming/partitionequalsubsetsum.py)
 - [Longest Palindromic Substring](Dynamic%20Programming/longestpalindromicsubstring.py)
+- [Unique Paths](Dynamic%20Programming/uniquepaths.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
