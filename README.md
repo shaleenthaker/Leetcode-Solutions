@@ -64,6 +64,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 52 | String to Integer (atoi) | Medium | [stringtointeger(atoi).py](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py) | *Math and Bit Manipulation* |
 | 53 | Spiral Matrix | Medium | [spiralmatrix.py](Math%20and%20Bit%20Manipulation/spiralmatrix.py) | *Math and Bit Manipulation* |
 | 54 | Subsets | Medium | [subsets.py](Backtracking/subsets.py) | *Backtracking* |
+| 55 | Binary Tree Right Side View | Medium | [binarytreerightsideview.py](Trees/binarytreerightsideview.py) | *Trees* |
 
 ## Categories
 
@@ -109,6 +110,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Binary Tree Level Order Traversal](Trees/binarytreelevelordertraversal.py)
 - [Validate Binary Search Tree](Trees/validatebinarysearchtree.py)
 - [Lowest Common Ancestor of a Binary Tree](Trees/lowestcommonancestorofabinarytree.py)
+- [Binary Tree Right Side View](Trees/binarytreerightsideview.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
