@@ -65,6 +65,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 53 | Spiral Matrix | Medium | [spiralmatrix.py](Math%20and%20Bit%20Manipulation/spiralmatrix.py) | *Math and Bit Manipulation* |
 | 54 | Subsets | Medium | [subsets.py](Backtracking/subsets.py) | *Backtracking* |
 | 55 | Binary Tree Right Side View | Medium | [binarytreerightsideview.py](Trees/binarytreerightsideview.py) | *Trees* |
+| 56 | Longest Palindromic Substring | Medium | [longestpalindromicsubstring.py](Dynamic%20Programming/longestpalindromicsubstring.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -135,6 +136,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Coin Change](Dynamic%20Programming/coinchange.py)
 - [Word Break](Dynamic%20Programming/wordbreak.py)
 - [Partition Equal Subset Sum](Dynamic%20Programming/partitionequalsubsetsum.py)
+- [Longest Palindromic Substring](Dynamic%20Programming/longestpalindromicsubstring.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
