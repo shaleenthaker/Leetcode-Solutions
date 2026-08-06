@@ -62,6 +62,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 50 | Word Break | Medium | [wordbreak.py](Dynamic%20Programming/wordbreak.py) | *Dynamic Programming* |
 | 51 | Partition Equal Subset Sum | Medium | [partitionequalsubsetsum.py](Dynamic%20Programming/partitionequalsubsetsum.py) | *Dynamic Programming* |
 | 52 | String to Integer (atoi) | Medium | [stringtointeger(atoi).py](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py) | *Math and Bit Manipulation* |
+| 53 | Spiral Matrix | Medium | [spiralmatrix.py](Math%20and%20Bit%20Manipulation/spiralmatrix.py) | *Math and Bit Manipulation* |
 
 ## Categories
 
@@ -138,6 +139,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Math and Bit Manipulation
 - [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
 - [String to Integer (atoi)](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py)
+- [Spiral Matrix](Math%20and%20Bit%20Manipulation/spiralmatrix.py)
 
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
