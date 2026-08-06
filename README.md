@@ -63,6 +63,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 51 | Partition Equal Subset Sum | Medium | [partitionequalsubsetsum.py](Dynamic%20Programming/partitionequalsubsetsum.py) | *Dynamic Programming* |
 | 52 | String to Integer (atoi) | Medium | [stringtointeger(atoi).py](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py) | *Math and Bit Manipulation* |
 | 53 | Spiral Matrix | Medium | [spiralmatrix.py](Math%20and%20Bit%20Manipulation/spiralmatrix.py) | *Math and Bit Manipulation* |
+| 54 | Subsets | Medium | [subsets.py](Backtracking/subsets.py) | *Backtracking* |
 
 ## Categories
 
@@ -115,6 +116,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Backtracking
 - [Combination Sum](Backtracking/combinationsum.py)
 - [Permutations](Backtracking/permutations.py)
+- [Subsets](Backtracking/subsets.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
