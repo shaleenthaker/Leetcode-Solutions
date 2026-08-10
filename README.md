@@ -67,6 +67,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 55 | Binary Tree Right Side View | Medium | [binarytreerightsideview.py](Trees/binarytreerightsideview.py) | *Trees* |
 | 56 | Longest Palindromic Substring | Medium | [longestpalindromicsubstring.py](Dynamic%20Programming/longestpalindromicsubstring.py) | *Dynamic Programming* |
 | 57 | Unique Paths | Medium | [uniquepaths.py](Dynamic%20Programming/uniquepaths.py) | *Dynamic Programming* |
+| 58 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [constructbinarytreefrompreorderandinordertraversal.py](Trees/constructbinarytreefrompreorderandinordertraversal.py) | *Trees* |
 
 ## Categories
 
@@ -113,6 +114,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Validate Binary Search Tree](Trees/validatebinarysearchtree.py)
 - [Lowest Common Ancestor of a Binary Tree](Trees/lowestcommonancestorofabinarytree.py)
 - [Binary Tree Right Side View](Trees/binarytreerightsideview.py)
+- [Construct Binary Tree from Preorder and Inorder Traversal](Trees/constructbinarytreefrompreorderandinordertraversal.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
