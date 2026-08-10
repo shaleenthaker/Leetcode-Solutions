@@ -69,6 +69,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 57 | Unique Paths | Medium | [uniquepaths.py](Dynamic%20Programming/uniquepaths.py) | *Dynamic Programming* |
 | 58 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [constructbinarytreefrompreorderandinordertraversal.py](Trees/constructbinarytreefrompreorderandinordertraversal.py) | *Trees* |
 | 59 | Container With The Most Water | Medium | [containerwiththemostwater.py](Two%20Pointers/containerwiththemostwater.py) | *Two Pointers* |
+| 60 | Letter Combinations of a Phone Number | Medium | [lettercombinationsofaphonenumber.py](Backtracking/lettercombinationsofaphonenumber.py) | *Backtracking* |
 
 ## Categories
 
@@ -125,6 +126,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Combination Sum](Backtracking/combinationsum.py)
 - [Permutations](Backtracking/permutations.py)
 - [Subsets](Backtracking/subsets.py)
+- [Letter Combinations of a Phone Number](Backtracking/lettercombinationsofaphonenumber.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
