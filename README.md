@@ -71,6 +71,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 59 | Container With The Most Water | Medium | [containerwiththemostwater.py](Two%20Pointers/containerwiththemostwater.py) | *Two Pointers* |
 | 60 | Letter Combinations of a Phone Number | Medium | [lettercombinationsofaphonenumber.py](Backtracking/lettercombinationsofaphonenumber.py) | *Backtracking* |
 | 61 | Word Search | Medium | [wordsearch.py](Backtracking/wordsearch.py) | *Backtracking* |
+| 62 | Find All Anagrams in a String | Medium | [findallanagramsinastring.py](Sliding%20Window/findallanagramsinastring.py) | *Sliding Window* |
 
 ## Categories
 
@@ -92,6 +93,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
+- [Find All Anagrams in a String](Sliding%20Window/findallanagramsinastring.py)
 
 ### Stacks
 - [Valid Parentheses](Stacks/validparentheses.py)
