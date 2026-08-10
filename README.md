@@ -68,6 +68,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 56 | Longest Palindromic Substring | Medium | [longestpalindromicsubstring.py](Dynamic%20Programming/longestpalindromicsubstring.py) | *Dynamic Programming* |
 | 57 | Unique Paths | Medium | [uniquepaths.py](Dynamic%20Programming/uniquepaths.py) | *Dynamic Programming* |
 | 58 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [constructbinarytreefrompreorderandinordertraversal.py](Trees/constructbinarytreefrompreorderandinordertraversal.py) | *Trees* |
+| 59 | Container With The Most Water | Medium | [containerwiththemostwater.py](Two%20Pointers/containerwiththemostwater.py) | *Two Pointers* |
 
 ## Categories
 
@@ -85,6 +86,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
 - [3Sum](Two%20Pointers/3sum.py)
 - [Sort Colors](Two%20Pointers/sortcolors.py)
+- [Container With The Most Water](Two%20Pointers/containerwiththemostwater.py)
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
