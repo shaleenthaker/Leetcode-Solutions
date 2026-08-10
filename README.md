@@ -70,6 +70,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 58 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [constructbinarytreefrompreorderandinordertraversal.py](Trees/constructbinarytreefrompreorderandinordertraversal.py) | *Trees* |
 | 59 | Container With The Most Water | Medium | [containerwiththemostwater.py](Two%20Pointers/containerwiththemostwater.py) | *Two Pointers* |
 | 60 | Letter Combinations of a Phone Number | Medium | [lettercombinationsofaphonenumber.py](Backtracking/lettercombinationsofaphonenumber.py) | *Backtracking* |
+| 61 | Word Search | Medium | [wordsearch.py](Backtracking/wordsearch.py) | *Backtracking* |
 
 ## Categories
 
@@ -127,6 +128,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Permutations](Backtracking/permutations.py)
 - [Subsets](Backtracking/subsets.py)
 - [Letter Combinations of a Phone Number](Backtracking/lettercombinationsofaphonenumber.py)
+- [Word Search](Backtracking/wordsearch.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
