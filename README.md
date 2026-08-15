@@ -72,6 +72,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 60 | Letter Combinations of a Phone Number | Medium | [lettercombinationsofaphonenumber.py](Backtracking/lettercombinationsofaphonenumber.py) | *Backtracking* |
 | 61 | Word Search | Medium | [wordsearch.py](Backtracking/wordsearch.py) | *Backtracking* |
 | 62 | Find All Anagrams in a String | Medium | [findallanagramsinastring.py](Sliding%20Window/findallanagramsinastring.py) | *Sliding Window* |
+| 63 | Minimum Height Trees | Medium | [minimumheighttrees.py](Graphs/minimumheighttrees.py) | *Graphs* |
 
 ## Categories
 
@@ -140,6 +141,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Number of Islands](Graphs/numberofislands.py)
 - [Rotting Oranges](Graphs/rottingoranges.py)
 - [Accounts Merge](Graphs/accountsmerge.py)
+- [Minimum Height Trees](Graphs/minimumheighttrees.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
