@@ -73,6 +73,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 61 | Word Search | Medium | [wordsearch.py](Backtracking/wordsearch.py) | *Backtracking* |
 | 62 | Find All Anagrams in a String | Medium | [findallanagramsinastring.py](Sliding%20Window/findallanagramsinastring.py) | *Sliding Window* |
 | 63 | Minimum Height Trees | Medium | [minimumheighttrees.py](Graphs/minimumheighttrees.py) | *Graphs* |
+| 64 | Task Scheduler | Medium | [taskscheduler.py](Math%20and%20Bit%20Manipulation/taskscheduler.py) | *Math and Bit Manipulation* |
 
 ## Categories
 
@@ -160,6 +161,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Add Binary](Math%20and%20Bit%20Manipulation/addbinary.py)
 - [String to Integer (atoi)](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py)
 - [Spiral Matrix](Math%20and%20Bit%20Manipulation/spiralmatrix.py)
+- [Task Scheduler](Math%20and%20Bit%20Manipulation/taskscheduler.py)
 
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
