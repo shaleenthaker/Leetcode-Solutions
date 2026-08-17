@@ -74,6 +74,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 62 | Find All Anagrams in a String | Medium | [findallanagramsinastring.py](Sliding%20Window/findallanagramsinastring.py) | *Sliding Window* |
 | 63 | Minimum Height Trees | Medium | [minimumheighttrees.py](Graphs/minimumheighttrees.py) | *Graphs* |
 | 64 | Task Scheduler | Medium | [taskscheduler.py](Math%20and%20Bit%20Manipulation/taskscheduler.py) | *Math and Bit Manipulation* |
+| 65 | LRU Cache | Medium | [LRUcache.py](Design/LRUcache.py) | *Design* |
 
 ## Categories
 
@@ -168,6 +169,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Implement Trie (Prefix Tree)](Design/implementtrie.py)
 - [Min Stack](Design/minstack.py)
 - [Time Based Key-Value Store](Design/timebasedkey-valuestore.py)
+- [LRU Cache](Design/LRUcache.py)
 
 ## Approach
 
