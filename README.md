@@ -76,6 +76,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 64 | Task Scheduler | Medium | [taskscheduler.py](Math%20and%20Bit%20Manipulation/taskscheduler.py) | *Math and Bit Manipulation* |
 | 65 | LRU Cache | Medium | [LRUcache.py](Design/LRUcache.py) | *Design* |
 | 66 | Kth Smallest Element in a BST | Medium | [kthsmallestelementinaBST.py](Trees/kthsmallestelementinaBST.py) | *Trees* |
+| 67 | Minimum Window Substring | Hard | [minimumwindowsubstring.py](Sliding%20Window/minimumwindowsubstring.py) | *Sliding Window* |
 
 ## Categories
 
@@ -98,6 +99,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
 - [Find All Anagrams in a String](Sliding%20Window/findallanagramsinastring.py)
+- [Minimum Window Substring](Sliding%20Window/minimumwindowsubstring.py)
 
 ### Stacks
 - [Valid Parentheses](Stacks/validparentheses.py)
