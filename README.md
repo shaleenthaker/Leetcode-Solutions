@@ -75,6 +75,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 63 | Minimum Height Trees | Medium | [minimumheighttrees.py](Graphs/minimumheighttrees.py) | *Graphs* |
 | 64 | Task Scheduler | Medium | [taskscheduler.py](Math%20and%20Bit%20Manipulation/taskscheduler.py) | *Math and Bit Manipulation* |
 | 65 | LRU Cache | Medium | [LRUcache.py](Design/LRUcache.py) | *Design* |
+| 66 | Kth Smallest Element in a BST | Medium | [kthsmallestelementinaBST.py](Trees/kthsmallestelementinaBST.py) | *Trees* |
 
 ## Categories
 
@@ -124,6 +125,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Lowest Common Ancestor of a Binary Tree](Trees/lowestcommonancestorofabinarytree.py)
 - [Binary Tree Right Side View](Trees/binarytreerightsideview.py)
 - [Construct Binary Tree from Preorder and Inorder Traversal](Trees/constructbinarytreefrompreorderandinordertraversal.py)
+- [Kth Smallest Element in a BST](Trees/kthsmallestelementinaBST.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
