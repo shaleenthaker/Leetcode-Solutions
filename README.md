@@ -78,6 +78,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 66 | Kth Smallest Element in a BST | Medium | [kthsmallestelementinaBST.py](Trees/kthsmallestelementinaBST.py) | *Trees* |
 | 67 | Minimum Window Substring | Hard | [minimumwindowsubstring.py](Sliding%20Window/minimumwindowsubstring.py) | *Sliding Window* |
 | 68 | Serialize and Deserialize Binary Tree | Hard | [serializeanddeserializebinarytree.py](Trees/serializeanddeserializebinarytree.py) | *Trees* |
+| 69 | Trapping Rain Water | Hard | [trappingrainwater.py](Two%20Pointers/trappingrainwater.py) | *Two Pointers* |
 
 ## Categories
 
@@ -96,6 +97,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [3Sum](Two%20Pointers/3sum.py)
 - [Sort Colors](Two%20Pointers/sortcolors.py)
 - [Container With The Most Water](Two%20Pointers/containerwiththemostwater.py)
+- [Trapping Rain Water](Two%20Pointers/trappingrainwater.py)
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](Sliding%20Window/longestsubstringwithoutrepeatingcharacters.py)
