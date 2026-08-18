@@ -77,6 +77,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 65 | LRU Cache | Medium | [LRUcache.py](Design/LRUcache.py) | *Design* |
 | 66 | Kth Smallest Element in a BST | Medium | [kthsmallestelementinaBST.py](Trees/kthsmallestelementinaBST.py) | *Trees* |
 | 67 | Minimum Window Substring | Hard | [minimumwindowsubstring.py](Sliding%20Window/minimumwindowsubstring.py) | *Sliding Window* |
+| 68 | Serialize and Deserialize Binary Tree | Hard | [serializeanddeserializebinarytree.py](Trees/serializeanddeserializebinarytree.py) | *Trees* |
 
 ## Categories
 
@@ -128,6 +129,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Binary Tree Right Side View](Trees/binarytreerightsideview.py)
 - [Construct Binary Tree from Preorder and Inorder Traversal](Trees/constructbinarytreefrompreorderandinordertraversal.py)
 - [Kth Smallest Element in a BST](Trees/kthsmallestelementinaBST.py)
+- [Serialize and Deserialize Binary Tree](Trees/serializeanddeserializebinarytree.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
