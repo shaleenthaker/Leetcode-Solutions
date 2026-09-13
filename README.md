@@ -79,6 +79,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 67 | Minimum Window Substring | Hard | [minimumwindowsubstring.py](Sliding%20Window/minimumwindowsubstring.py) | *Sliding Window* |
 | 68 | Serialize and Deserialize Binary Tree | Hard | [serializeanddeserializebinarytree.py](Trees/serializeanddeserializebinarytree.py) | *Trees* |
 | 69 | Trapping Rain Water | Hard | [trappingrainwater.py](Two%20Pointers/trappingrainwater.py) | *Two Pointers* |
+| 70 | Find Median from Data Stream | Hard | [findmedianfromdatastream.py](Heaps/Priority%20Queues/findmedianfromdatastream.py) | *Heaps/Priority Queues* |
 
 ## Categories
 
@@ -135,6 +136,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
+- [Find Median from Data Stream](Heaps/Priority%20Queues/findmedianfromdatastream.py)
 
 ### Backtracking
 - [Combination Sum](Backtracking/combinationsum.py)
