@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-LeetCode Grind 75 problem solutions written in Python.
+LeetCode problem solutions written in Python.
 
 ## Structure
 
@@ -82,6 +82,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 70 | Find Median from Data Stream | Hard | [findmedianfromdatastream.py](Heaps/Priority%20Queues/findmedianfromdatastream.py) | *Heaps/Priority Queues* |
 | 71 | Word Ladder | Hard | [wordladder.py](Graphs/wordladder.py) | *Graphs* |
 | 72 | Basic Calculator | Hard | [basiccalculator.py](Stacks/basiccalculator.py) | *Stacks* |
+| 73 | Cheapest Flights Within K Stops | Medium | [cheapestflightswithinkstops.py](Graphs/cheapestflightswithinkstops.py) | *Graphs* |
 
 ## Categories
 
@@ -158,6 +159,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Accounts Merge](Graphs/accountsmerge.py)
 - [Minimum Height Trees](Graphs/minimumheighttrees.py)
 - [Word Ladder](Graphs/wordladder.py)
+- [Cheapest Flights Within K Stops](Graphs/cheapestflightswithinkstops.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
