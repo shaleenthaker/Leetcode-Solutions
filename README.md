@@ -81,6 +81,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 69 | Trapping Rain Water | Hard | [trappingrainwater.py](Two%20Pointers/trappingrainwater.py) | *Two Pointers* |
 | 70 | Find Median from Data Stream | Hard | [findmedianfromdatastream.py](Heaps/Priority%20Queues/findmedianfromdatastream.py) | *Heaps/Priority Queues* |
 | 71 | Word Ladder | Hard | [wordladder.py](Graphs/wordladder.py) | *Graphs* |
+| 72 | Basic Calculator | Hard | [basiccalculator.py](Stacks/basiccalculator.py) | *Stacks* |
 
 ## Categories
 
@@ -109,6 +110,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 ### Stacks
 - [Valid Parentheses](Stacks/validparentheses.py)
 - [Evaluate Reverse Polish Notation](Stacks/evaluatereversepolishnotation.py)
+- [Basic Calculator](Stacks/basiccalculator.py)
 
 ### Binary Search
 - [Binary Search](Binary%20Search/binarysearch.py)
