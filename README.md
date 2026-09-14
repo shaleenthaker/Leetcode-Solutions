@@ -80,6 +80,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 68 | Serialize and Deserialize Binary Tree | Hard | [serializeanddeserializebinarytree.py](Trees/serializeanddeserializebinarytree.py) | *Trees* |
 | 69 | Trapping Rain Water | Hard | [trappingrainwater.py](Two%20Pointers/trappingrainwater.py) | *Two Pointers* |
 | 70 | Find Median from Data Stream | Hard | [findmedianfromdatastream.py](Heaps/Priority%20Queues/findmedianfromdatastream.py) | *Heaps/Priority Queues* |
+| 71 | Word Ladder | Hard | [wordladder.py](Graphs/wordladder.py) | *Graphs* |
 
 ## Categories
 
@@ -154,6 +155,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Rotting Oranges](Graphs/rottingoranges.py)
 - [Accounts Merge](Graphs/accountsmerge.py)
 - [Minimum Height Trees](Graphs/minimumheighttrees.py)
+- [Word Ladder](Graphs/wordladder.py)
 
 ### Dynamic Programming
 - [Climbing Stairs](Dynamic%20Programming/climbingstairs.py)
