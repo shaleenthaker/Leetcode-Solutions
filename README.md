@@ -83,6 +83,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 71 | Word Ladder | Hard | [wordladder.py](Graphs/wordladder.py) | *Graphs* |
 | 72 | Basic Calculator | Hard | [basiccalculator.py](Stacks/basiccalculator.py) | *Stacks* |
 | 73 | Cheapest Flights Within K Stops | Medium | [cheapestflightswithinkstops.py](Graphs/cheapestflightswithinkstops.py) | *Graphs* |
+| 74 | Make Array Zero by Subtracting Equal Amounts | Easy | [makearrayzerobysubtractingequalamounts.py](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -95,6 +96,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Majority Element](Arrays%20and%20Hashing/majorityelement.py)
 - [Contains Duplicate](Arrays%20and%20Hashing/containsduplicate.py)
 - [Product of Array Except Self](Arrays%20and%20Hashing/productofarrayexceptself.py)
+- [Make Array Zero by Subtracting Equal Amounts](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
