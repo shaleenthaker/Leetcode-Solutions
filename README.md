@@ -84,6 +84,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 72 | Basic Calculator | Hard | [basiccalculator.py](Stacks/basiccalculator.py) | *Stacks* |
 | 73 | Cheapest Flights Within K Stops | Medium | [cheapestflightswithinkstops.py](Graphs/cheapestflightswithinkstops.py) | *Graphs* |
 | 74 | Make Array Zero by Subtracting Equal Amounts | Easy | [makearrayzerobysubtractingequalamounts.py](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py) | *Arrays and Hashing* |
+| 75 | Copy List with Random Pointer | Medium | [copylistwithrandompointer.py](Linked%20Lists/copylistwithrandompointer.py) | *Linked Lists* |
 
 ## Categories
 
@@ -125,6 +126,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Linked List Cycle](Linked%20Lists/linkedlistcycle.py)
 - [Reverse Linked List](Linked%20Lists/reverselinkedlist.py)
 - [Middle of a Linked List](Linked%20Lists/middleofalinkedlist.py)
+- [Copy List with Random Pointer](Linked%20Lists/copylistwithrandompointer.py)
 
 ### Trees
 - [Invert Binary Tree](Trees/invertbinarytree.py)
