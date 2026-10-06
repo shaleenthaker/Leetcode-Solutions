@@ -86,6 +86,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 74 | Make Array Zero by Subtracting Equal Amounts | Easy | [makearrayzerobysubtractingequalamounts.py](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py) | *Arrays and Hashing* |
 | 75 | Copy List with Random Pointer | Medium | [copylistwithrandompointer.py](Linked%20Lists/copylistwithrandompointer.py) | *Linked Lists* |
 | 76 | Reorganize String | Medium | [reorganizestring.py](Arrays%20and%20Hashing/reorganizestring.py) | *Arrays and Hashing* |
+| 77 | All Nodes Distance K in Binary Tree | Medium | [allnodesdistancekinbinarytree.py](Graphs/allnodesdistancekinbinarytree.py) | *Graphs* |
 
 ## Categories
 
@@ -165,6 +166,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Accounts Merge](Graphs/accountsmerge.py)
 - [Minimum Height Trees](Graphs/minimumheighttrees.py)
 - [Word Ladder](Graphs/wordladder.py)
+- [All Nodes Distance K in Binary Tree](Graphs/allnodesdistancekinbinarytree.py)
 - [Cheapest Flights Within K Stops](Graphs/cheapestflightswithinkstops.py)
 
 ### Dynamic Programming
