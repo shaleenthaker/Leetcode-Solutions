@@ -87,6 +87,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 75 | Copy List with Random Pointer | Medium | [copylistwithrandompointer.py](Linked%20Lists/copylistwithrandompointer.py) | *Linked Lists* |
 | 76 | Reorganize String | Medium | [reorganizestring.py](Arrays%20and%20Hashing/reorganizestring.py) | *Arrays and Hashing* |
 | 77 | All Nodes Distance K in Binary Tree | Medium | [allnodesdistancekinbinarytree.py](Graphs/allnodesdistancekinbinarytree.py) | *Graphs* |
+| 78 | Find Triangular Sum of an Array | Medium | [findtriangularsumofanarray.py](Arrays%20and%20Hashing/findtriangularsumofanarray.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -101,6 +102,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Product of Array Except Self](Arrays%20and%20Hashing/productofarrayexceptself.py)
 - [Make Array Zero by Subtracting Equal Amounts](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py)
 - [Reorganize String](Arrays%20and%20Hashing/reorganizestring.py)
+- [Find Triangular Sum of an Array](Arrays%20and%20Hashing/findtriangularsumofanarray.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
