@@ -88,6 +88,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 76 | Reorganize String | Medium | [reorganizestring.py](Arrays%20and%20Hashing/reorganizestring.py) | *Arrays and Hashing* |
 | 77 | All Nodes Distance K in Binary Tree | Medium | [allnodesdistancekinbinarytree.py](Graphs/allnodesdistancekinbinarytree.py) | *Graphs* |
 | 78 | Find Triangular Sum of an Array | Medium | [findtriangularsumofanarray.py](Arrays%20and%20Hashing/findtriangularsumofanarray.py) | *Arrays and Hashing* |
+| 79 | Number of Ways to Select Buildings | Medium | [numberofwaystoselectbuildings.py](Dynamic%20Programming/numberofwaystoselectbuildings.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -179,6 +180,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Partition Equal Subset Sum](Dynamic%20Programming/partitionequalsubsetsum.py)
 - [Longest Palindromic Substring](Dynamic%20Programming/longestpalindromicsubstring.py)
 - [Unique Paths](Dynamic%20Programming/uniquepaths.py)
+- [Number of Ways to Select Buildings](Dynamic%20Programming/numberofwaystoselectbuildings.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
