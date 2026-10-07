@@ -90,6 +90,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 78 | Find Triangular Sum of an Array | Medium | [findtriangularsumofanarray.py](Arrays%20and%20Hashing/findtriangularsumofanarray.py) | *Arrays and Hashing* |
 | 79 | Number of Ways to Select Buildings | Medium | [numberofwaystoselectbuildings.py](Dynamic%20Programming/numberofwaystoselectbuildings.py) | *Dynamic Programming* |
 | 80 | Maximum Length of Subarray With Positive Product | Medium | [maximumlengthofsubarraywithpositiveproduct.py](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py) | *Dynamic Programming* |
+| 81 | Find Good Days to Rob the Bank | Medium | [findgooddaystorobthebank.py](Dynamic%20Programming/findgooddaystorobthebank.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -183,6 +184,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Unique Paths](Dynamic%20Programming/uniquepaths.py)
 - [Number of Ways to Select Buildings](Dynamic%20Programming/numberofwaystoselectbuildings.py)
 - [Maximum Length of Subarray With Positive Product](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py)
+- [Find Good Days to Rob the Bank](Dynamic%20Programming/findgooddaystorobthebank.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
