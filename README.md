@@ -89,6 +89,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 77 | All Nodes Distance K in Binary Tree | Medium | [allnodesdistancekinbinarytree.py](Graphs/allnodesdistancekinbinarytree.py) | *Graphs* |
 | 78 | Find Triangular Sum of an Array | Medium | [findtriangularsumofanarray.py](Arrays%20and%20Hashing/findtriangularsumofanarray.py) | *Arrays and Hashing* |
 | 79 | Number of Ways to Select Buildings | Medium | [numberofwaystoselectbuildings.py](Dynamic%20Programming/numberofwaystoselectbuildings.py) | *Dynamic Programming* |
+| 80 | Maximum Length of Subarray With Positive Product | Medium | [maximumlengthofsubarraywithpositiveproduct.py](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py) | *Dynamic Programming* |
 
 ## Categories
 
@@ -181,6 +182,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Longest Palindromic Substring](Dynamic%20Programming/longestpalindromicsubstring.py)
 - [Unique Paths](Dynamic%20Programming/uniquepaths.py)
 - [Number of Ways to Select Buildings](Dynamic%20Programming/numberofwaystoselectbuildings.py)
+- [Maximum Length of Subarray With Positive Product](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py)
 
 ### Intervals
 - [Insert Interval](Intervals/insertinterval.py)
