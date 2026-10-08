@@ -94,6 +94,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 82 | Maximum Units on a Truck | Easy | [maximumunitsonatruck.py](Greedy/maximumunitsonatruck.py) | *Greedy* |
 | 83 | Design Parking System | Easy | [designparkingsystem.py](Design/designparkingsystem.py) | *Design* |
 | 84 | Group Anagrams | Medium | [groupanagrams.py](Arrays%20and%20Hashing/groupanagrams.py) | *Arrays and Hashing* |
+| 85 | Sum of Subarray Ranges | Medium | [sumofsubarrayranges.py](Stacks/sumofsubarrayranges.py) | *Stacks* |
 
 ## Categories
 
@@ -127,6 +128,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Valid Parentheses](Stacks/validparentheses.py)
 - [Evaluate Reverse Polish Notation](Stacks/evaluatereversepolishnotation.py)
 - [Basic Calculator](Stacks/basiccalculator.py)
+- [Sum of Subarray Ranges](Stacks/sumofsubarrayranges.py)
 
 ### Binary Search
 - [Binary Search](Binary%20Search/binarysearch.py)
