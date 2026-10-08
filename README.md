@@ -92,6 +92,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 80 | Maximum Length of Subarray With Positive Product | Medium | [maximumlengthofsubarraywithpositiveproduct.py](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py) | *Dynamic Programming* |
 | 81 | Find Good Days to Rob the Bank | Medium | [findgooddaystorobthebank.py](Dynamic%20Programming/findgooddaystorobthebank.py) | *Dynamic Programming* |
 | 82 | Maximum Units on a Truck | Easy | [maximumunitsonatruck.py](Greedy/maximumunitsonatruck.py) | *Greedy* |
+| 83 | Design Parking System | Easy | [designparkingsystem.py](Design/designparkingsystem.py) | *Design* |
 
 ## Categories
 
@@ -206,6 +207,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Min Stack](Design/minstack.py)
 - [Time Based Key-Value Store](Design/timebasedkey-valuestore.py)
 - [LRU Cache](Design/LRUcache.py)
+- [Design Parking System](Design/designparkingsystem.py)
 
 ## Approach
 
