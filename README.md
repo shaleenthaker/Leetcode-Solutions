@@ -91,6 +91,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 79 | Number of Ways to Select Buildings | Medium | [numberofwaystoselectbuildings.py](Dynamic%20Programming/numberofwaystoselectbuildings.py) | *Dynamic Programming* |
 | 80 | Maximum Length of Subarray With Positive Product | Medium | [maximumlengthofsubarraywithpositiveproduct.py](Dynamic%20Programming/maximumlengthofsubarraywithpositiveproduct.py) | *Dynamic Programming* |
 | 81 | Find Good Days to Rob the Bank | Medium | [findgooddaystorobthebank.py](Dynamic%20Programming/findgooddaystorobthebank.py) | *Dynamic Programming* |
+| 82 | Maximum Units on a Truck | Easy | [maximumunitsonatruck.py](Greedy/maximumunitsonatruck.py) | *Greedy* |
 
 ## Categories
 
@@ -195,6 +196,9 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [String to Integer (atoi)](Math%20and%20Bit%20Manipulation/stringtointeger(atoi).py)
 - [Spiral Matrix](Math%20and%20Bit%20Manipulation/spiralmatrix.py)
 - [Task Scheduler](Math%20and%20Bit%20Manipulation/taskscheduler.py)
+
+### Greedy
+- [Maximum Units on a Truck](Greedy/maximumunitsonatruck.py)
 
 ### Design
 - [Implement Queue Using Stacks](Design/implementqueueusingstacks.py)
