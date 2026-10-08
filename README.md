@@ -93,6 +93,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 81 | Find Good Days to Rob the Bank | Medium | [findgooddaystorobthebank.py](Dynamic%20Programming/findgooddaystorobthebank.py) | *Dynamic Programming* |
 | 82 | Maximum Units on a Truck | Easy | [maximumunitsonatruck.py](Greedy/maximumunitsonatruck.py) | *Greedy* |
 | 83 | Design Parking System | Easy | [designparkingsystem.py](Design/designparkingsystem.py) | *Design* |
+| 84 | Group Anagrams | Medium | [groupanagrams.py](Arrays%20and%20Hashing/groupanagrams.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -108,6 +109,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Make Array Zero by Subtracting Equal Amounts](Arrays%20and%20Hashing/makearrayzerobysubtractingequalamounts.py)
 - [Reorganize String](Arrays%20and%20Hashing/reorganizestring.py)
 - [Find Triangular Sum of an Array](Arrays%20and%20Hashing/findtriangularsumofanarray.py)
+- [Group Anagrams](Arrays%20and%20Hashing/groupanagrams.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
