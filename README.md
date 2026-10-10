@@ -95,6 +95,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 83 | Design Parking System | Easy | [designparkingsystem.py](Design/designparkingsystem.py) | *Design* |
 | 84 | Group Anagrams | Medium | [groupanagrams.py](Arrays%20and%20Hashing/groupanagrams.py) | *Arrays and Hashing* |
 | 85 | Sum of Subarray Ranges | Medium | [sumofsubarrayranges.py](Stacks/sumofsubarrayranges.py) | *Stacks* |
+| 86 | Capacity To Ship Packages Within D Days | Medium | [capacitytoshippackageswithinddays.py](Binary%20Search/capacitytoshippackageswithinddays.py) | *Binary Search* |
 
 ## Categories
 
@@ -134,6 +135,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Binary Search](Binary%20Search/binarysearch.py)
 - [First Bad Version](Binary%20Search/firstbadversion.py)
 - [Search in Rotated Sorted Array](Binary%20Search/searchinarotatedsortedarray.py)
+- [Capacity To Ship Packages Within D Days](Binary%20Search/capacitytoshippackageswithinddays.py)
 
 ### Linked Lists
 - [Merge Two Sorted Lists](Linked%20Lists/mergetwosortedlists.py)

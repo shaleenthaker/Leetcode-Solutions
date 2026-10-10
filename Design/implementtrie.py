@@ -36,9 +36,7 @@ class Trie:
                 return False
             else:
                 node = node.children[char] 
-        if node.children and not node.isEnd:
-            return False
-        return True
+        return node.children and not node.isEnd
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
