@@ -98,6 +98,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 86 | Capacity To Ship Packages Within D Days | Medium | [capacitytoshippackageswithinddays.py](Binary%20Search/capacitytoshippackageswithinddays.py) | *Binary Search* |
 | 87 | Battleships in a Board | Medium | [battleshipsinaboard.py](Graphs/battleshipsinaboard.py) | *Graphs* |
 | 88 | Random Pick with Weight | Medium | [randompickwithweight.py](Design/randompickwithweight.py) | *Design* |
+| 89 | Minimum Time Difference | Medium | [minimumtimedifference.py](Arrays%20and%20Hashing/minimumtimedifference.py) | *Arrays and Hashing* |
 
 ## Categories
 
@@ -114,6 +115,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Reorganize String](Arrays%20and%20Hashing/reorganizestring.py)
 - [Find Triangular Sum of an Array](Arrays%20and%20Hashing/findtriangularsumofanarray.py)
 - [Group Anagrams](Arrays%20and%20Hashing/groupanagrams.py)
+- [Minimum Time Difference](Arrays%20and%20Hashing/minimumtimedifference.py)
 
 ### Two Pointers
 - [Valid Palindrome](Two%20Pointers/validpalindrome.py)
