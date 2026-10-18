@@ -99,6 +99,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 87 | Battleships in a Board | Medium | [battleshipsinaboard.py](Graphs/battleshipsinaboard.py) | *Graphs* |
 | 88 | Random Pick with Weight | Medium | [randompickwithweight.py](Design/randompickwithweight.py) | *Design* |
 | 89 | Minimum Time Difference | Medium | [minimumtimedifference.py](Arrays%20and%20Hashing/minimumtimedifference.py) | *Arrays and Hashing* |
+| 90 | My Calendar I | Medium | [mycalendari.py](Design/mycalendari.py) | *Design* |
 
 ## Categories
 
@@ -220,6 +221,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [LRU Cache](Design/LRUcache.py)
 - [Design Parking System](Design/designparkingsystem.py)
 - [Random Pick with Weight](Design/randompickwithweight.py)
+- [My Calendar I](Design/mycalendari.py)
 
 ## Approach
 
