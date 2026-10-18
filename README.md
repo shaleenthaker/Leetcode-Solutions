@@ -96,6 +96,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 84 | Group Anagrams | Medium | [groupanagrams.py](Arrays%20and%20Hashing/groupanagrams.py) | *Arrays and Hashing* |
 | 85 | Sum of Subarray Ranges | Medium | [sumofsubarrayranges.py](Stacks/sumofsubarrayranges.py) | *Stacks* |
 | 86 | Capacity To Ship Packages Within D Days | Medium | [capacitytoshippackageswithinddays.py](Binary%20Search/capacitytoshippackageswithinddays.py) | *Binary Search* |
+| 87 | Battleships in a Board | Medium | [battleshipsinaboard.py](Graphs/battleshipsinaboard.py) | *Graphs* |
 
 ## Categories
 
@@ -180,6 +181,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Minimum Height Trees](Graphs/minimumheighttrees.py)
 - [Word Ladder](Graphs/wordladder.py)
 - [All Nodes Distance K in Binary Tree](Graphs/allnodesdistancekinbinarytree.py)
+- [Battleships in a Board](Graphs/battleshipsinaboard.py)
 - [Cheapest Flights Within K Stops](Graphs/cheapestflightswithinkstops.py)
 
 ### Dynamic Programming
