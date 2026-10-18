@@ -97,6 +97,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 85 | Sum of Subarray Ranges | Medium | [sumofsubarrayranges.py](Stacks/sumofsubarrayranges.py) | *Stacks* |
 | 86 | Capacity To Ship Packages Within D Days | Medium | [capacitytoshippackageswithinddays.py](Binary%20Search/capacitytoshippackageswithinddays.py) | *Binary Search* |
 | 87 | Battleships in a Board | Medium | [battleshipsinaboard.py](Graphs/battleshipsinaboard.py) | *Graphs* |
+| 88 | Random Pick with Weight | Medium | [randompickwithweight.py](Design/randompickwithweight.py) | *Design* |
 
 ## Categories
 
@@ -216,6 +217,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Time Based Key-Value Store](Design/timebasedkey-valuestore.py)
 - [LRU Cache](Design/LRUcache.py)
 - [Design Parking System](Design/designparkingsystem.py)
+- [Random Pick with Weight](Design/randompickwithweight.py)
 
 ## Approach
 
