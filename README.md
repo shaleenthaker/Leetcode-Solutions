@@ -101,6 +101,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 89 | Minimum Time Difference | Medium | [minimumtimedifference.py](Arrays%20and%20Hashing/minimumtimedifference.py) | *Arrays and Hashing* |
 | 90 | My Calendar I | Medium | [mycalendari.py](Design/mycalendari.py) | *Design* |
 | 91 | Kth Largest Element in an Array | Medium | [kthlargestelementinanarray.py](Heaps/Priority%20Queues/kthlargestelementinanarray.py) | *Heaps/Priority Queues* |
+| 92 | Top K Frequent Elements | Medium | [topkfrequentelements.py](Heaps/Priority%20Queues/topkfrequentelements.py) | *Heaps/Priority Queues* |
 
 ## Categories
 
@@ -168,6 +169,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
 - [Find Median from Data Stream](Heaps/Priority%20Queues/findmedianfromdatastream.py)
 - [Kth Largest Element in an Array](Heaps/Priority%20Queues/kthlargestelementinanarray.py)
+- [Top K Frequent Elements](Heaps/Priority%20Queues/topkfrequentelements.py)
 
 ### Backtracking
 - [Combination Sum](Backtracking/combinationsum.py)
