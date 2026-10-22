@@ -102,6 +102,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 90 | My Calendar I | Medium | [mycalendari.py](Design/mycalendari.py) | *Design* |
 | 91 | Kth Largest Element in an Array | Medium | [kthlargestelementinanarray.py](Heaps/Priority%20Queues/kthlargestelementinanarray.py) | *Heaps/Priority Queues* |
 | 92 | Top K Frequent Elements | Medium | [topkfrequentelements.py](Heaps/Priority%20Queues/topkfrequentelements.py) | *Heaps/Priority Queues* |
+| 93 | Longest Absolute File Path | Medium | [longestabsolutefilepath.py](Trees/longestabsolutefilepath.py) | *Trees* |
 
 ## Categories
 
@@ -164,6 +165,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Construct Binary Tree from Preorder and Inorder Traversal](Trees/constructbinarytreefrompreorderandinordertraversal.py)
 - [Kth Smallest Element in a BST](Trees/kthsmallestelementinaBST.py)
 - [Serialize and Deserialize Binary Tree](Trees/serializeanddeserializebinarytree.py)
+- [Longest Absolute File Path](Trees/longestabsolutefilepath.py)
 
 ### Heaps/Priority Queues
 - [K Closest Points to Origin](Heaps/Priority%20Queues/kclosestpointstoorigin.py)
