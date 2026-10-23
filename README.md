@@ -104,6 +104,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 92 | Top K Frequent Elements | Medium | [topkfrequentelements.py](Heaps/Priority%20Queues/topkfrequentelements.py) | *Heaps/Priority Queues* |
 | 93 | Longest Absolute File Path | Medium | [longestabsolutefilepath.py](Trees/longestabsolutefilepath.py) | *Trees* |
 | 94 | Combination Sum II | Medium | [combinationsumii.py](Backtracking/combinationsumii.py) | *Backtracking* |
+| 95 | Subsets II | Medium | [subsetsii.py](Backtracking/subsetsii.py) | *Backtracking* |
 
 ## Categories
 
@@ -181,6 +182,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Letter Combinations of a Phone Number](Backtracking/lettercombinationsofaphonenumber.py)
 - [Word Search](Backtracking/wordsearch.py)
 - [Combination Sum II](Backtracking/combinationsumii.py)
+- [Subsets II](Backtracking/subsetsii.py)
 
 ### Graphs
 - [Flood Fill](Graphs/floodfill.py)
