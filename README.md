@@ -105,6 +105,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 | 93 | Longest Absolute File Path | Medium | [longestabsolutefilepath.py](Trees/longestabsolutefilepath.py) | *Trees* |
 | 94 | Combination Sum II | Medium | [combinationsumii.py](Backtracking/combinationsumii.py) | *Backtracking* |
 | 95 | Subsets II | Medium | [subsetsii.py](Backtracking/subsetsii.py) | *Backtracking* |
+| 96 | Add Two Numbers | Medium | [addtwonumbers.py](Linked%20Lists/addtwonumbers.py) | *Linked Lists* |
 
 ## Categories
 
@@ -153,6 +154,7 @@ Each solution is in its own file named after the problem (e.g., `twosum.py`). So
 - [Reverse Linked List](Linked%20Lists/reverselinkedlist.py)
 - [Middle of a Linked List](Linked%20Lists/middleofalinkedlist.py)
 - [Copy List with Random Pointer](Linked%20Lists/copylistwithrandompointer.py)
+- [Add Two Numbers](Linked%20Lists/addtwonumbers.py)
 
 ### Trees
 - [Invert Binary Tree](Trees/invertbinarytree.py)
